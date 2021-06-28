@@ -82,7 +82,7 @@ fill(colorText1);
 textAlign(LEFT);
 textSize(paragraphTextSize);
 textFont(intlMed);
-text("Vicary van Houten, the head of the ecocentric government, \nwas among the first ones who landed on the planet, \nand Connor Reece is one of her young pupils, \nraised and educated to be a brilliant virologist and biologist.\nOn the other hand, an opposing faction, \nknown as the anthropocentric one, \nis led by Wilfrid Izgren, a young rebel \nwho believes in the hedonistic nature of humans \nand whose artistic attitude makes him reject \nthe current authoritarian government.", width/12,300);
+text("Vicary van Houten, the head of the ecocentric government, \nwas among the first ones who landed on the planet, \nand Connor Reece is one of her young pupils, \nraised and educated to be a brilliant virologist and biologist.\nOn the other hand, an opposing faction, \nknown as the anthropocentric one, \nis led by Wilfrid Izgren, a young rebel \nwho believes in the hedonistic nature of humans \nand whose artistic attitude makes him reject \nthe current authoritarian government.", width/12,200);
 pop();
 
 push();
@@ -90,7 +90,7 @@ fill(colorText1);
 textAlign(LEFT);
 textSize(paragraphTextSize);
 textFont(intlMed);
-text("T2, on the other hand, introduces the user to Mycenae, \nthe Eden-like planet where, in 2153, \na few lucky ones from the space mission Aeneas \ngot the chance to land. \nHere, a technocratic society flourished: \nscientific progress and knowledge are \nat the center of both social development \nand political control, focused \non human’s respect towards nature \n(which has to be as pristine as possible).", ((width/12)*7),300);
+text("T2, on the other hand, introduces the user to Mycenae, \nthe Eden-like planet where, in 2153, \na few lucky ones from the space mission Aeneas \ngot the chance to land. \nHere, a technocratic society flourished: \nscientific progress and knowledge are \nat the center of both social development \nand political control, focused \non human’s respect towards nature \n(which has to be as pristine as possible).", ((width/12)*7),200);
 pop();
 
 imageMode(CORNERS);
@@ -111,7 +111,7 @@ fill(colorText1);
 textAlign(LEFT);
 textSize(paragraphTextSize);
 textFont(intlMed);
-text("The storyline you are going to dive in \ninvolves two timesets, that we called, \nfor our own convenience,\nT1 (dystopian present on Earth) and T2 (Mycenae).\nIt’s 2033, and Earth is about to collapse \ndue to an invasive species of ants farmed \nby some visionary investors in order \nto initially contrast climate emergencies derived \nfrom intensive farming (cattle, poultry, etc.).", (width/12)-(scrall*1.2),300);
+text("The storyline you are going to dive in \ninvolves two timesets, that we called, \nfor our own convenience,\nT1 (dystopian present on Earth) and T2 (Mycenae).\nIt’s 2033, and Earth is about to collapse \ndue to an invasive species of ants farmed \nby some visionary investors in order \nto initially contrast climate emergencies derived \nfrom intensive farming (cattle, poultry, etc.).", (width/12)-(scrall*1.2),200);
 pop();
 
 
